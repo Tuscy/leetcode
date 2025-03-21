@@ -13,3 +13,4 @@ class Solution:
         return bits
     
     ##Fastest way would be to use odd and even values to determine number of 1s
+    
